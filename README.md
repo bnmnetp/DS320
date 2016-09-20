@@ -10,6 +10,8 @@ Course Materials for DS-320 at Luther College
 
 * REST API's
 * Pandas data frames and making the most of them
+* [Pandas Official Docs](http://pandas.pydata.org/pandas-docs/stable/)
+* clone this:  https://github.com/Kyrand/dataviz-with-python-and-js
 
 ** Assignment **
 

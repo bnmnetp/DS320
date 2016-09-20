@@ -4,6 +4,17 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 20
+
+**Topics**
+
+* REST API's
+* Pandas data frames and making the most of them
+
+** Assignment **
+
+* I have a number of Pandas data frame manipulations for you here:  https://classroom.github.com/assignment-invitations/d6be09e3a01a2ae3cdc2a85d39446f44
+
 ### September 15
 
 **Topic**

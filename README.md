@@ -9,6 +9,7 @@ Course Materials for DS-320 at Luther College
 **Topics**
 
 * Graphing and grouping
+* Get the new assignment here: https://classroom.github.com/assignment-invitations/28946cbaf858a44b83817d64448793e1
 
 **Assignment**
 

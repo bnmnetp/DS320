@@ -4,6 +4,16 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 22
+
+**Topics**
+
+* Graphing and grouping
+
+**Assignment**
+
+* For Tuesday complete Exercises-2 and Exercises-3
+
 ### September 20
 
 **Topics**

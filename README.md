@@ -4,6 +4,17 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 27
+
+**Topics**
+
+* Merging dataframes and Joining database tables
+* dataframe pivots
+
+**Assignment**
+
+* For Thursday:  https://classroom.github.com/assignment-invitations/c16643bd30df00c3d682fb2e9ca399e3
+
 ### September 22
 
 **Topics**

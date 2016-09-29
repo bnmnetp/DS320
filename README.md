@@ -4,6 +4,11 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 29
+
+* Quick presentations of questions and solutions to the election data
+* Project 1 discussion and work
+
 ### September 27
 
 **Topics**

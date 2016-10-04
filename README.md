@@ -4,6 +4,15 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### October 4
+
+* Presentations of election questions and answers
+* Project work
+
+**Asignment**
+
+* For Thursday read Hadley Wickham's Layered Grammar of Graphics paper
+
 ### September 29
 
 * Quick presentations of questions and solutions to the election data

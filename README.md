@@ -4,6 +4,18 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+
+### October 11
+
+* Exploring some CS enrollment data with the viz tools
+* You should really look at [This overview](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/) before class!
+
+### October 6
+
+* An overview of the landscape of viz tools in Python.  [I wish I had seen this two days ago](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+* discussion of the layered grammar of graphics and a bunch of examples of using it.
+
+*
 ### October 4
 
 * Presentations of election questions and answers

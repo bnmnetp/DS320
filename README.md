@@ -4,6 +4,9 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### October 13
+
+* Midterm repo:  https://classroom.github.com/assignment-invitations/ac47a68e741b70c2ee154e8ef5c6c33e
 
 ### October 11
 

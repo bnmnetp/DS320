@@ -10,6 +10,7 @@ Course Materials for DS-320 at Luther College
 
 **Assignment For Tuesday Oct. 25**
 
+* Listen:  Revisionist History Podcast by Malcolm Gladwell -- Food Fight episode
 * Read - [College Acess Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
 * Acquire data so that we can re-create this study but focusing on midwest colleges comparable to Luther
 

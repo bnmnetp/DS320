@@ -4,6 +4,14 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### October 20
+
+* In class presentations of mid-term project
+
+**Assignment**
+
+* Read - [College Acess Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
+
 
 ### October 11
 

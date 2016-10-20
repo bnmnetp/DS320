@@ -8,9 +8,10 @@ Course Materials for DS-320 at Luther College
 
 * In class presentations of mid-term project
 
-**Assignment**
+**Assignment For Tuesday Oct. 25**
 
 * Read - [College Acess Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
+* Acquire data so that we can re-create this study but focusing on midwest colleges comparable to Luther
 
 
 ### October 11

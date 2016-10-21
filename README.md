@@ -14,6 +14,9 @@ Course Materials for DS-320 at Luther College
 * Read - [College Acess Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
 * Acquire data so that we can re-create this study but focusing on midwest colleges comparable to Luther
 
+### October 13
+
+* Midterm repo:  https://classroom.github.com/assignment-invitations/ac47a68e741b70c2ee154e8ef5c6c33e
 
 ### October 11
 

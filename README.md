@@ -4,6 +4,20 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### October 27
+
+* College Access Index calculation and visualization
+
+**Assignment for Tuesday Nov 1**
+
+* I have posted my notebook (ipeds.ipynb) in the Notebooks folder
+* Do the second half of the index -- Net tuition and graph it.
+
+### October 25
+
+* Finish presentations
+* Start on College Access Index
+
 ### October 20
 
 * In class presentations of mid-term project
@@ -11,7 +25,7 @@ Course Materials for DS-320 at Luther College
 **Assignment For Tuesday Oct. 25**
 
 * Listen:  Revisionist History Podcast by Malcolm Gladwell -- Food Fight episode
-* Read - [College Acess Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
+* Read - [College Access Index](http://www.nytimes.com/2015/09/17/upshot/college-access-index-2015-the-details.html)
 * Acquire data so that we can re-create this study but focusing on midwest colleges comparable to Luther
 
 ### October 13

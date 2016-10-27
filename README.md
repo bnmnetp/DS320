@@ -12,6 +12,7 @@ Course Materials for DS-320 at Luther College
 
 * I have posted my notebook (ipeds.ipynb) in the Notebooks folder
 * Do the second half of the index -- Net tuition and graph it.
+* turn in your work here:  https://classroom.github.com/assignment-invitations/454d2e6e3140ca2f4a0cec5ea3b0c964
 
 ### October 25
 

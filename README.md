@@ -3,6 +3,20 @@
 Course Materials for DS-320 at Luther College
 
 ## Schedule
+### November 1
+
+* Compare results for final Collage Access Index
+* grab [this spreadsheet](http://dmanalytics.org/wp-content/uploads/2014/10/chapter-12-relay-foods.xlsx)
+* Cohort Analysis
+  1. Load the data and explore
+  2. Create OrderPeriod column using year and month
+  3. Determine a user's cohort group based on their first order
+  4. Rollup data by cohort group and order period
+  5. Label the cohort period for each cohort group
+  6. Graph user retention by cohort group
+     * Make a line graph
+     * Make a heat map
+
 
 ### October 27
 

@@ -11,7 +11,7 @@ Course Materials for DS-320 at Luther College
   1. Load the data and explore
   2. Create OrderPeriod column using year and month
   3. Determine a user's cohort group based on their first order
-  4. Rollup data by cohort group and order period
+  4. Rollup data by cohort group and order period.  That is for each cohort group, for each OrderPeriod, how much did all of the people in the cohort spend during that OrderPeriod.  We will expect this to drop off over time.  
   5. Label the cohort period for each cohort group
   6. Graph user retention by cohort group
      * Make a line graph

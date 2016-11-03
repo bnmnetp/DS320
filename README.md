@@ -9,6 +9,10 @@ Course Materials for DS-320 at Luther College
 * Quick Interlude on Pandas and Multi-level indexes - [Work through this](https://tomaugspurger.github.io/modern-1.html)
 * Then we will complete our cohort analysis
 
+**For Tuesday**
+
+* Complete the pivot table so that you have a new table with cohortPeriod as the rows and cohort group as the columns, with the cells containing the number of active users within a cohort group for a given period.   We will ultimately need to convert those raw numbers into percentages, based on the number of active users in the cohort group at its inception.
+
 ### November 1
 
 * Compare results for final Collage Access Index

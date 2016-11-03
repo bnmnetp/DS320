@@ -3,6 +3,12 @@
 Course Materials for DS-320 at Luther College
 
 ## Schedule
+
+### November 3
+
+* Quick Interlude on Pandas and Multi-level indexes - [Work through this](https://tomaugspurger.github.io/modern-1.html)
+* Then we will complete our cohort analysis
+
 ### November 1
 
 * Compare results for final Collage Access Index

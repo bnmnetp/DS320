@@ -4,6 +4,15 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### November 8
+
+* Finish up Cohort analysis by graphing and creating a heat map
+* Start Sentiment analysis
+* Get the Airline tweets dataset from kaggle.com
+* Project 2
+  * By Thursday, come up with a Question that you want to answer.  For example, while listening to a podcast this morning about software pricing I began to wonder about the total amount of revenue or % of our GDP that is accounted for by software sales.  I have seen many changes in business models and software pricing since I started using computers in the 1980's.  So my question is how has that changed.  I have no idea of the answer, and I am not sure where I would find the data, but I'm pretty sure its out there.  Your goal is to do a good analysis which you will document in a Jupyter notebook, but your final presentation must be a single graphic with a small amount of accompanying text.  Something that someone could get in just a couple of minutes.   This is due in two weeks.  Tuesday the 22nd.
+
+
 ### November 3
 
 * Quick Interlude on Pandas and Multi-level indexes - [Work through this](https://tomaugspurger.github.io/modern-1.html)

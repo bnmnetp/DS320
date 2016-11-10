@@ -4,11 +4,20 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### November 10
+
+* Here is the link for turning in your Cohort Analysis:  https://classroom.github.com/assignment-invitations/448a371a734704d2ead87fdd5a9591cb
+* We'll continue with our sentiment analysis today
+* Hierarchical classification
+
+
 ### November 8
 
 * Finish up Cohort analysis by graphing and creating a heat map
 * Start Sentiment analysis
 * Get the Airline tweets dataset from kaggle.com
+* Visualize a couple of things -- overall distribution of positive and negative, distribution by airline.
+* Naive Bayes!
 * Project 2
   * By Thursday, come up with a Question that you want to answer.  For example, while listening to a podcast this morning about software pricing I began to wonder about the total amount of revenue or % of our GDP that is accounted for by software sales.  I have seen many changes in business models and software pricing since I started using computers in the 1980's.  So my question is how has that changed.  I have no idea of the answer, and I am not sure where I would find the data, but I'm pretty sure its out there.  Your goal is to do a good analysis which you will document in a Jupyter notebook, but your final presentation must be a single graphic with a small amount of accompanying text.  Something that someone could get in just a couple of minutes.   This is due in two weeks.  Tuesday the 22nd.
 
@@ -17,10 +26,6 @@ Course Materials for DS-320 at Luther College
 
 * Quick Interlude on Pandas and Multi-level indexes - [Work through this](https://tomaugspurger.github.io/modern-1.html)
 * Then we will complete our cohort analysis
-
-**For Tuesday**
-
-* Complete the pivot table so that you have a new table with cohortPeriod as the rows and cohort group as the columns, with the cells containing the number of active users within a cohort group for a given period.   We will ultimately need to convert those raw numbers into percentages, based on the number of active users in the cohort group at its inception.
 
 ### November 1
 

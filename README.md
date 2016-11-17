@@ -4,6 +4,11 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+## November 17
+
+* Tutorial:  [Coloring in Countries](http://www.geophysique.be/2013/02/12/matplotlib-basemap-tutorial-10-shapefiles-unleached-continued/)
+
+
 ### November 10
 
 * Here is the link for turning in your Cohort Analysis:  https://classroom.github.com/assignment-invitations/448a371a734704d2ead87fdd5a9591cb

@@ -4,6 +4,10 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+## November 22
+
+* Project 2 repository: https://classroom.github.com/assignment-invitations/afa675796190ccab474d4ab9f0fb23b3
+
 ## November 17
 
 * Tutorial:  [Coloring in Countries](http://www.geophysique.be/2013/02/12/matplotlib-basemap-tutorial-10-shapefiles-unleached-continued/)

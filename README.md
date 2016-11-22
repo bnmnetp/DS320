@@ -7,6 +7,7 @@ Course Materials for DS-320 at Luther College
 ## November 22
 
 * Project 2 repository: https://classroom.github.com/assignment-invitations/afa675796190ccab474d4ab9f0fb23b3
+* Getting startedwith Plotly for [plotting geographic data](https://plot.ly/python/choropleth-maps/)
 
 ## November 17
 

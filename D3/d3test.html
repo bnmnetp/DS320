@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Testing D3</title>
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <style>
+    .axis line {
+      stroke-width: 2;
+      stroke: black;
+    }
+    </style>
+
+<svg>
+</svg>
+
+<script>
+var numbers = [5,10,4, 1]
+data = [
+  { date: '2014-01-01', amount: 10 },
+  { date: '2014-02-01', amount: 20 },
+  { date: '2014-03-01', amount: 40 },
+  { date: '2014-04-01', amount: 80 }
+]
+var y = d3.scaleLinear()
+  .domain([0, 80]) // $0 to $80
+  .range([200, 0]); // Seems backwards because SVG is y-down
+//alert(y(0))
+//alert(y(80))
+var x = d3.scaleTime()
+    .domain([
+      new Date(Date.parse('2014-01-01')),
+      new Date(Date.parse('2014-04-01'))
+    ])
+    .range([0, 300]);
+
+//alert(x(new Date(Date.parse('2014-02-01'))))
+
+var xAxis = d3.axisBottom(x)
+  .ticks(4); // specify the number of ticks
+
+var svg = d3.select('body')
+  .append('svg')        // create an <svg> element
+    .attr('width', 300) // set its dimentions
+    .attr('height', 150);
+
+svg.append('g')            // create a <g> element
+  .attr('class', 'x axis') // specify classes
+  .call(xAxis);            // let the axis do its thing
+
+  var sales = [
+    { product: 'Hoodie',  count: 7 },
+    { product: 'Jacket',  count: 6 },
+    { product: 'Snuggie', count: 9 },
+  ];
+
+  var svg = d3.select('svg');
+  svg.size();
+
+  var rects = svg.selectAll('rect')
+  .data(sales);
+
+  rects.size();
+
+  var maxCount = d3.max(sales, function(d, i) {
+    return d.count;
+  });
+  var x = d3.scaleLinear()
+    .range([0, 300])
+    .domain([0, maxCount]);
+  var y = d3.scaleBand()
+    .rangeRound([0, 75])
+    .domain(sales.map(function(d, i) {
+      return d.product;
+    }));
+
+var newRects = rects.enter();
+  newRects.append('rect')
+    .attr('x', x(0))
+    .attr('y', function(d, i) {
+      return y(d.product);
+    })
+    .attr('height', y.bandwidth())
+    .attr('width', function(d, i) {
+      return x(d.count);
+    });
+
+</script>
+  </body>
+</html>

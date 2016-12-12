@@ -4,6 +4,11 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+## December 13
+
+* Final Project Repository:  https://classroom.github.com/assignment-invitations/86239337c3423df33e31956bd9946bfb
+
+
 ## November 29
 
 * [Interactive Visualizations with D3](https://square.github.io/intro-to-d3/)
